@@ -47,3 +47,7 @@ D:\sravani\sharepoint\SharePointAssessment\UploadingFiles\bin\Debug\System.Secur
 D:\sravani\sharepoint\SharePointAssessment\UploadingFiles\bin\Debug\System.Xml.ReaderWriter.dll
 D:\sravani\sharepoint\SharePointAssessment\UploadingFiles\bin\Debug\DocumentFormat.OpenXml.xml
 D:\sravani\sharepoint\SharePointAssessment\UploadingFiles\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\github\SharepointAssessment\SharePointAssessment\UploadingFiles\bin\Debug\UploadingFiles.exe.config
+E:\github\SharepointAssessment\SharePointAssessment\UploadingFiles\obj\Debug\UploadingFiles.exe
+E:\github\SharepointAssessment\SharePointAssessment\UploadingFiles\obj\Debug\UploadingFiles.pdb
+E:\github\SharepointAssessment\SharePointAssessment\UploadingFiles\obj\Debug\UploadingFiles.csprojResolveAssemblyReference.cache
